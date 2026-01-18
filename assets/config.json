@@ -1,0 +1,6 @@
+{
+"name": "Desktop Miku",
+"version": "0.1",
+"tts": "pyttsx3",
+"asr": null
+}   
